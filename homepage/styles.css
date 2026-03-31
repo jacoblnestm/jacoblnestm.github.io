@@ -1,0 +1,47 @@
+#Intro {
+    color: white;
+    font-size: 20px;
+    font-family: "Georgia";
+}
+
+#R5 {
+    background-color: #ff7f90;
+    color: #000000;
+    font-size: 24px;
+    font-family: "Georgia";
+    margin: 50px
+}
+
+#R4 {
+    background-color: #00ccad;
+    color: #000000;
+    font-size: 24px;
+    font-family: "Georgia";
+    margin: 50px
+}
+
+#R3 {
+    background-color: #e6c405;
+    color: #000000;
+    font-size: 24px;
+    font-family: "Georgia";
+    margin: 50px
+}
+
+#R2 {
+    background-color: #056ee6;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Georgia";
+    margin: 50px
+}
+
+#R1 {
+    background-color: #ba52fa;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: "Georgia";
+    margin: 50px
+}
+
+
